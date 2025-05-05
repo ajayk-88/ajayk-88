@@ -56,8 +56,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayk-88&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayk-88&layout=compact&theme=tokyonight" height="180">
 </p>
 
 ---
@@ -75,7 +75,7 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](www.linkedin.com/in/ajay-kumar-628212154)  
 💬 *Feel free to reach out for collaboration, freelance work, or just to chat about Python & AI!*
 
 ---
