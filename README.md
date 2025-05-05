@@ -1,74 +1,82 @@
-# HRMS & Automation Suite
+<h1 align="center">Hi 👋, I'm Ajay Kumar</h1>
+<h3 align="center">Python Developer | Django Enthusiast | Automation & AI Lover</h3>
 
-This repository contains a collection of three integrated Python-based projects:
-
-1. **HRMS (Human Resource Management System)** – A Django web application for managing employee data, attendance (including shift-based and GPS-based), and leave tracking.
-2. **Selenium Automation + SMTP Mailing** – A Python automation script for browser-based tasks (like data scraping or form submissions) and email notifications using SMTP.
-3. **Invoice Detection using YOLOv5** – A deep learning model implementation to detect invoice fields and extract structured data from invoice images.
-
----
-
-## 🔧 Tech Stack
-
-- **Backend:** Python, Django
-- **Frontend:** HTML, Tailwind CSS (in HRMS)
-- **Automation:** Selenium, SMTP, ChromeDriver
-- **Object Detection:** YOLOv5, OpenCV, PyTorch
-- **Database:** SQLite / PostgreSQL (optional)
-- **Others:** WSL (Ubuntu), virtualenv, Git
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Web+Developer;Automation+%7C+AI+%7C+YOLOv5;Always+learning+new+tech" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 Features
+### 👨‍💻 About Me
 
-### HRMS Module
-- Employee management (Add/Edit/Delete)
-- Shift-based and GPS-based attendance
-- QR code and form-based attendance
-- Leave tracking and approval
-- Attendance reports with short-hours & late detection
+- 🔭 I’m currently working on:
+  - 🧑‍💼 **HRMS System** using Django + Tailwind CSS  
+  - 📧 **SMTP Mail Automation** – Secure login, report download, auto-mailing from CSV  
+  - 🤖 **Selenium Automation Scripts** – Browser automation with ChromeDriver  
+  - 🧾 **Invoice Detection with YOLOv5** – Object detection on scanned invoices
 
-### Selenium + SMTP Script
-- Browser automation using Selenium WebDriver
-- ChromeDriver path auto-setup using environment config
-- Email reports sent automatically via SMTP (Gmail or company mail)
+- 🌱 Currently learning: **FastAPI**, **Docker**, and **Data Extraction from PDFs**
 
-### Invoice Detection (YOLOv5)
-- Detects invoice fields like invoice number, date, total amount, etc.
-- Pre-trained YOLOv5 model integration
-- Outputs bounding boxes with extracted text
+- 💬 Ask me about:  
+  `Python`, `Django`, `Selenium`, `SMTP`, `YOLOv5`, `Web Automation`, `Linux + WSL`
 
----
+- 📫 How to reach me:  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-## 📷 Screenshots / Demos
-
-*(Add images or links here if available)*
+- 🌐 Portfolio: *Coming Soon*
 
 ---
 
-## 🛠️ Installation
+### 🛠️ Tech Stack
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+#### 💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+#### 🌐 Web & Frameworks
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-# Install dependencies
-pip install -r requirements.txt
+#### 🤖 Automation & AI
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
+![YOLOv5](https://img.shields.io/badge/-YOLOv5-red?logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 
-# For Django app
-cd hrms_project
-python manage.py migrate
-python manage.py runserver
+#### 💾 Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-2C4A7A?logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-# For Selenium Script
-cd automation_script
-python automation.py
+---
 
-# For YOLOv5
-cd invoice_detection
-# Follow YOLOv5 setup instructions (weights, requirements etc.)
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="180">
+</p>
+
+---
+
+### 🧩 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **HRMS System** | Shift-based, QR, GPS, and form-based attendance with Django |
+| **SMTP Mail Automation** | Downloads daily reports from secure login and mails them using SMTP |
+| **Selenium Tasks** | Custom ChromeDriver automation for web tasks |
+| **YOLOv5 Invoice Detection** | Extract invoice info from scanned images using object detection |
+
+---
+
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+💬 *Feel free to reach out for collaboration, freelance work, or just to chat about Python & AI!*
+
+---
+
