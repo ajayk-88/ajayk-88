@@ -9,11 +9,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on:
-  - 🧑‍💼 **HRMS System** using Django + Tailwind CSS  
-  - 📧 **SMTP Mail Automation** – Secure login, report download, auto-mailing from CSV  
-  - 🤖 **Selenium Automation Scripts** – Browser automation with ChromeDriver  
-  - 🧾 **Invoice Detection with YOLOv5** – Object detection on scanned invoices
+🔭 I have worked on:
+
+- 🧑‍💼 **HRMS System** – Developed a shift-based, GPS & QR code attendance system using Django  
+- 📧 **SMTP Mail Automation** – Automated secure login, daily report download, and email sending using CSV mapping  
+- 🤖 **Selenium Web Automation** – Created ChromeDriver-based scripts for automating web tasks  
+- 🧾 **Invoice Detection using YOLOv5** – Built a system to detect invoice fields from scanned images using computer vision
 
 - 🌱 Currently learning: **FastAPI**, **Docker**, and **Data Extraction from PDFs**
 
