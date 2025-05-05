@@ -75,7 +75,7 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ajay-kumar-628212154)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kumar-628212154/)  
 💬 *Feel free to reach out for collaboration, freelance work, or just to chat about Python & AI!*
 
 ---
