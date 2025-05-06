@@ -82,8 +82,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=🙏+Thanks+for+visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=%F0%9F%99%8F+Thanks+for+visiting%21" alt="Typing SVG" />
 </p>
+
 
 
 
