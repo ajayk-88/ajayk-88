@@ -86,8 +86,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Python+Developer;Django+Web+Developer;Automation+%7C+AI+%7C+YOLOv5;Always+learning+new+tech;🙏+Thanks+for+visiting!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=🙏+Thanks+for+visiting!" alt="Typing SVG" />
 </p>
+
 
 
 
