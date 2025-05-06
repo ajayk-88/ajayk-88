@@ -81,3 +81,9 @@
 
 ---
 
+<p align="center">
+  🙏 **Thanks for visiting my profile!**  
+  ⭐ Feel free to star a repo or connect with me!
+</p>
+
+
